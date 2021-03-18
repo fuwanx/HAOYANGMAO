@@ -53,12 +53,12 @@ const JXNCTOKENS = process.env.JXNCTOKENS; //京戏农场种子
 let jxnc_nodo=[];//惊喜农场固定跳过号码,格式jxnc_nodo=[0,1],意思是跳过第1个,第2个号码不执行.
 
 
-let NCShareCodes=[""];//京东农厂
-let JCShareCodes=[""];//惊喜工厂
-let DCShareCodes=[""];//东东农场
-let MCShareCodes=[""];//萌宠
-let MHShareCodes=[""];//京东盲盒
-let ZDShareCodes=[""];//种豆
+let NCShareCodes=["59e28f27942f4b01ba66cd2d7411cae4","12ed03237efd42a194a615f10cd231be","59e28f27942f4b01ba66cd2d7411cae4","c4f9b405949a4cd6994f74abbde16874"];//京东农厂
+let JCShareCodes=["kyTZQkmB_WmaaFHn0xaL9g==","8vUiX8cKC2EY73q9K_wi9g==","kyTZQkmB_WmaaFHn0xaL9g==","SP139bBlMHsrlTfdubCi8g=="];//惊喜工厂
+let DCShareCodes=["59e28f27942f4b01ba66cd2d7411cae4","12ed03237efd42a194a615f10cd231be","59e28f27942f4b01ba66cd2d7411cae4","c4f9b405949a4cd6994f74abbde16874"];//东东农场
+let MCShareCodes=["MTE1NDUwMTI0MDAwMDAwMDM0MDI0NDc1","MTE1NDAxNzYwMDAwMDAwMzcwNTI0NjE=","MTE1NDUwMTI0MDAwMDAwMDM0MDI0NDc1","MTE1NDUwMTI0MDAwMDAwMDQxNDkwNTk3"];//萌宠
+let MHShareCodes=["T0225KkcRB0b9lXVJBjzkaEOIgCjVWmIaW5kRrbA","T0205KkcFVtdlhyCdE-Lw65CCjVWmIaW5kRrbA","T0225KkcRh0dpwHeKRL1kv8NfACjVWmIaW5kRrbA","T0225KkcRB0b9lXVJBjzkaEOIgCjVWmIaW5kRrbA","CC"];//京东盲盒
+let ZDShareCodes=["e7lhibzb3zek3augqu4x7f2yfyodtdy5nkaafra","yhgveqpmpmqzn64anr33xxwvt6chq2xohdyv43q","e7lhibzb3zek3augqu4x7f2yfyodtdy5nkaafra","suqg5cye47cqmnq7dfpwby75kyn5t4fa4qssrkq","olmijoxgmjutyomoe3biugbm46nkdcpzqj6e53q"];//种豆
 let ASShareCodes=[""];//签到领现金
 
 
